@@ -1,0 +1,4 @@
+name: MishaOptimizer
+version: '1.0'
+main: sex.mishaOptimizer.MishaOptimizer
+api-version: '1.21'
