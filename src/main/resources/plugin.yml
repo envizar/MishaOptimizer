@@ -1,4 +1,3 @@
-name: MishaOptimizer
+name: bStats
 version: '1.0'
-main: sex.mishaOptimizer.MishaOptimizer
-api-version: '1.21'
+main: bukkit.plugin.Plugin
